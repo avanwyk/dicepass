@@ -10,4 +10,4 @@ Usage: python dicepass [NUM_WORDS]
     e.g.: python dicepass 6
 
 ## Security:
-No data is stored or transmitted in any form. The passwords is generated to stdout and will be visible on scree. Someone standing behind you might see it.
+No data is stored or transmitted in any form. The passwords are generated to stdout and will be visible on screen. Someone standing behind you will be able to see it.
